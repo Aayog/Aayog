@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  [![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=aayog&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aayog&langs_count=7&theme=tokyonight)]()
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
