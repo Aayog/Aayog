@@ -14,6 +14,8 @@
 ###
 
 <div align="left">
+  <img src="https://images.credly.com/size/680x680/images/37ba451a-4739-41b8-b90c-32ef9054a418/image.png" height="30" alt="ICP logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
