@@ -14,8 +14,6 @@
 ###
 
 <div align="left">
-  <img src="https://www.credly.com/badges/b75fda6e-3ab6-4683-96ad-c06a592e2d7d/public_url" height="30" alt="ICP logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -88,7 +86,12 @@
   <a href="https://discordapp/users/aayog_82373" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+    
+  <a href="https://www.credly.com/badges/b75fda6e-3ab6-4683-96ad-c06a592e2d7d/public_url" target="_blank">
+    <img src="./images/ICP.png" height="35" alt="discord logo"  />
+  </a>
 </div>
+
 
 ###
 
