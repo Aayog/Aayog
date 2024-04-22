@@ -88,7 +88,7 @@
   </a>
     
   <a href="https://www.credly.com/badges/b75fda6e-3ab6-4683-96ad-c06a592e2d7d/public_url" target="_blank">
-    <img src="./images/ICP.png" height="35" alt="discord logo"  />
+    <img src="./ICP.png" height="35" alt="discord logo"  />
   </a>
 </div>
 
