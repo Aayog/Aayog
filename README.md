@@ -11,7 +11,6 @@
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/C5603AQErxvw0b_rKPg/profile-displayphoto-shrink_200_200/0/1662862392501?e=2147483647&v=beta&t=DRtGFKXsIUhj0wEnkAaqWyP9iCxijdc0R09c9uqJS8w"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,6 +71,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayog&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
