@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aayog Koirala and I'm a Computer Science Masters Student currently open to Software Engineering positions.</h2>
+<h2 align="left">Hi 👋! My name is Aayog Koirala and I'm an enthusiast programmer with experience in dotnet currently open to Software Engineering positions.</h2>
 
 ###
 
